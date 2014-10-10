@@ -4,20 +4,18 @@ import string
 
 BASE_URL = "http://penguins.nhl.com/club/schedule.htm?season=20142015&gameType=4"
 
-def other_method():
+def create_json():
 	schedule = open("schedule.json", "w")
 	tojson = "{\"games\": ["
 	page = requests.get(BASE_URL)
 	tree = html.fromstring(page.text)
-	stuff = tree.xpath('//td[@class="left"]/text()')
-	gameinfo = []
+	scheduletable = tree.xpath('//td[@class="left"]/text()')
 	count = 0
-	totalCount = 0
-	for thing in stuff:
-		thing = thing.replace("\t", "")
-		thing = thing.replace("\n", "")
-		thing = thing.replace("-", "")
-		if len(thing) > 2:
+	for tableitem in scheduletable:
+		tableitem = tableitem.replace("\t", "")
+		tableitem = tableitem.replace("\n", "")
+		tableitem = tableitem.replace("-", "")
+		if len(tableitem) > 2:
 			if count == 0:
 				tojson = tojson + "{\"date\": "
 			elif count == 1:
@@ -30,12 +28,12 @@ def other_method():
 				tojson = tojson + "\"channel\": "
 			count = (count + 1) % 5
 			if count == 0:
-				tojson = tojson + "\"" + thing + "\"\n"
+				tojson = tojson + "\"" + tableitem + "\"\n"
 				tojson = tojson + "},"
 			else:
-				tojson = tojson + "\"" + thing + "\",\n"
+				tojson = tojson + "\"" + tableitem + "\",\n"
 	tojson = tojson[:-1]
 	tojson = tojson + "]}"
 	schedule.write(tojson)
 
-other_method()
+create_json()
