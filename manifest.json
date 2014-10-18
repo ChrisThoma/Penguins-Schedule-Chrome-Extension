@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "A quick way to view the entire 2014 Pittsburgh Penguins schedule.",
-  "default_locale": "en",
   "icons": {
-    "16": "icons/icon.png",
-    "48": "icons/icon.png",
-    "128": "icons/icon.png"
+    "16": "src/browser_action/images/icon.png",
+    "48": "src/browser_action/images/icon.png",
+    "128": "src/browser_action/images/icon.png"
   },
   "background": {
     "page": "src/bg/background.html",
     "persistent": true
   },
   "browser_action": {
-    "default_icon": "icons/icon.png",
+    "default_icon": "src/browser_action/images/icon.png",
     "default_title": "browser action demo",
     "default_popup": "src/browser_action/browser_action.html"
   }

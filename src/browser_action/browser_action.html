@@ -1,28 +1,46 @@
 <!doctype html>
 <style type="text/css">
-	#mainPopup {
+	body {
 		padding: 10px;
 		height: 200px;
 		width: 400px;
+		background-color: #D1BD80;
 		font-family: Helvetica, Ubuntu, Arial, sans-serif;
 	}
 	h1 {
 		font-size: 2em;
 		text-decoration: underline;
-		
+		color: white
 	}
 	table {
-		border: 1px;
-		background-color:#CEC18A;
+		border: 1px solid white;
+		background-color: black;
 		width: 100%;
+		color: white
+	}
+	td {
+
+		border: 1px solid #D1BD80;
+	}
+	#penguin {
+		width:36px;
+		height: auto;
 	}
 </style>
 
-<div id="mainPopup">
-<h1>PENGUINS 2014 SCHEDULE</h1>
-<p id="test"></p>
-<p id="jsoon"></p>
-<table></table>
+<body>
+<h1>PENGUINS 2014 SCHEDULE<img id="penguin" src="images/icon.png"></h1>
+<table>
+	<tr>
+		<b>
+		<th>DATE</th>
+		<th>VISITOR</th>
+		<th>HOME</th>
+		<th>TIME</th>
+		<th>CHANNEL</th>
+		</b>
+	</tr>
+</table>
 <script type="text/javascript" src="jquery.js"></script>
 <script src="script.js"></script>
-</div>
+</body>
