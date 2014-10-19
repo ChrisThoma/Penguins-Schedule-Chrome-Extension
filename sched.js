@@ -1,3 +1,5 @@
+document.getElementById("jso").innerHtml = "test"
+
 $(document).ready(function () {
     $.getJSON("schedule.json",
     function (json) {
@@ -7,9 +9,9 @@ $(document).ready(function () {
             tr.append("<td>" + json[i].date + "</td>");
             tr.append("<td>" + json[i].visitor + "</td>");
             tr.append("<td>" + json[i].home + "</td>");
-            tr.append("<td>" + json[i].gametime + "</td>");
+            tr.append("<td>" + json[i].time + "</td>");
             tr.append("<td>" + json[i].channel + "</td>");
-            $('#schedule').append(tr);
+            $('table_schedule').append(tr);
         }
     });
 });
