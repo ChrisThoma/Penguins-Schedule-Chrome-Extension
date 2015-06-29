@@ -1,411 +1,391 @@
-[{"date": "Thu Oct 9, 2014",
-"visitor": "Ducks",
+{"games": [{"date": "Mon Sep 21, 2015",
+"visitor": "PENGUINS",
+"home": "BLUE JACKETS",
+"time": "7:00 PM",
+"channel": "TUES SEP 22, 2015"
+},{"date": "HURRICANES",
+"visitor": "PENGUINS",
+"home": "7:00 PM",
+"time": "THU SEP 24, 2015",
+"channel": "PENGUINS"
+},{"date": "RED WINGS",
+"visitor": "7:30 PM",
+"home": "SAT Sep 26, 2015",
+"time": "BLUE JACKETS",
+"channel": "PENGUINS"
+},{"date": "4:00 PM",
+"visitor": "MON Sep 28, 2015",
+"home": "PENGUINS",
+"time": "CANADIENS",
+"channel": "7:00 PM"
+},{"date": "TUES Sep 29, 2015",
+"visitor": "LIGHTNING",
+"home": "PENGUINS",
+"time": "TBD",
+"channel": "WED Sep 30, 2015"
+},{"date": "RED WINGS",
+"visitor": "PENGUINS",
+"home": "7:00 PM",
+"time": "FRI OCT 2, 2015",
+"channel": "PENGUINS"
+},{"date": "HURRICANES",
+"visitor": "7:00 PM",
+"home": "Thu Oct 8, 2015",
+"time": "Penguins",
+"channel": "Stars"
+},{"date": "8:30 PM",
+"visitor": "Sat Oct 10, 2015",
 "home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "FINAL "
-},{"date": "Sat Oct 11, 2014",
-"visitor": "Penguins",
-"home": "Maple Leafs",
-"gametime": "7:00 PM",
-"channel": "CBC, NHLNUS, ROOT"
-},{"date": "Thu Oct 16, 2014",
-"visitor": "Stars",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA2, ROOT"
-},{"date": "Sat Oct 18, 2014",
-"visitor": "Islanders",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Oct 22, 2014",
-"visitor": "Flyers",
-"home": "Penguins",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA2"
-},{"date": "Thu Oct 23, 2014",
-"visitor": "Penguins",
-"home": "Red Wings",
-"gametime": "7:30 PM",
-"channel": "SN360, TVA2, ROOT"
-},{"date": "Sat Oct 25, 2014",
-"visitor": "Penguins",
-"home": "Predators",
-"gametime": "8:00 PM",
-"channel": "ROOT"
-},{"date": "Tue Oct 28, 2014",
-"visitor": "Devils",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Thu Oct 30, 2014",
-"visitor": "Kings",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, SN360, TVA2, ROOT"
-},{"date": "Sat Nov 1, 2014",
-"visitor": "Sabres",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "SN1, ROOT"
-},{"date": "Tue Nov 4, 2014",
-"visitor": "Penguins",
-"home": "Wild",
-"gametime": "8:00 PM",
-"channel": "ROOT"
-},{"date": "Thu Nov 6, 2014",
-"visitor": "Penguins",
-"home": "Jets",
-"gametime": "8:00 PM",
-"channel": "ROOT"
-},{"date": "Sat Nov 8, 2014",
-"visitor": "Penguins",
-"home": "Sabres",
-"gametime": "7:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Tue Nov 11, 2014",
-"visitor": "Penguins",
-"home": "Rangers",
-"gametime": "7:00 PM",
-"channel": "SN1, ROOT"
-},{"date": "Fri Nov 14, 2014",
-"visitor": "Penguins",
-"home": "Maple Leafs",
-"gametime": "7:30 PM",
-"channel": "TVA, ROOT"
-},{"date": "Sat Nov 15, 2014",
-"visitor": "Rangers",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, HNIC, ROOT"
-},{"date": "Tue Nov 18, 2014",
-"visitor": "Penguins",
-"home": "Canadiens",
-"gametime": "7:30 PM",
-"channel": "ROOT"
-},{"date": "Fri Nov 21, 2014",
-"visitor": "Islanders",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, SN, ROOT"
-},{"date": "Sat Nov 22, 2014",
-"visitor": "Penguins",
-"home": "Islanders",
-"gametime": "7:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Mon Nov 24, 2014",
-"visitor": "Penguins",
-"home": "Bruins",
-"gametime": "7:00 PM",
-"channel": "NBCSN, TVA, SN, ROOT"
-},{"date": "Wed Nov 26, 2014",
-"visitor": "Maple Leafs",
-"home": "Penguins",
-"gametime": "7:30 PM",
-"channel": "TVA, SN, ROOT"
-},{"date": "Fri Nov 28, 2014",
-"visitor": "Hurricanes",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, ROOT"
-},{"date": "Sat Nov 29, 2014",
-"visitor": "Penguins",
-"home": "Hurricanes",
-"gametime": "7:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Tue Dec 2, 2014",
-"visitor": "Devils",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, ROOT"
-},{"date": "Thu Dec 4, 2014",
-"visitor": "Canucks",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "SN360, ROOT"
-},{"date": "Sat Dec 6, 2014",
-"visitor": "Senators",
-"home": "Penguins",
-"gametime": "1:00 PM",
-"channel": "ROOT"
-},{"date": "Mon Dec 8, 2014",
-"visitor": "Penguins",
-"home": "Rangers",
-"gametime": "7:00 PM",
-"channel": "TVA, SN, ROOT"
-},{"date": "Fri Dec 12, 2014",
-"visitor": "Flames",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, ROOT"
-},{"date": "Sat Dec 13, 2014",
-"visitor": "Penguins",
-"home": "Blue Jackets",
-"gametime": "7:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Mon Dec 15, 2014",
-"visitor": "Lightning",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NBCSN, TVA, SN, ROOT"
-},{"date": "Thu Dec 18, 2014",
-"visitor": "Avalanche",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, SN360, TVA2, ROOT"
-},{"date": "Sat Dec 20, 2014",
-"visitor": "Panthers",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Mon Dec 22, 2014",
-"visitor": "Penguins",
-"home": "Panthers",
-"gametime": "7:30 PM",
-"channel": "TVA, SN, ROOT"
-},{"date": "Tue Dec 23, 2014",
-"visitor": "Penguins",
-"home": "Lightning",
-"gametime": "7:30 PM",
-"channel": "TVA, ROOT"
-},{"date": "Sat Dec 27, 2014",
-"visitor": "Capitals",
-"home": "Penguins",
-"gametime": "7:30 PM",
-"channel": "NBCSN, HNIC, TVA, ROOT"
-},{"date": "Mon Dec 29, 2014",
-"visitor": "Penguins",
-"home": "Devils",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Dec 31, 2014",
-"visitor": "Hurricanes",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Fri Jan 2, 2015",
-"visitor": "Lightning",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, ROOT"
-},{"date": "Sat Jan 3, 2015",
+"time": "Coyotes",
+"channel": "10:00 PM"
+},{"date": "Tue Oct 13, 2015",
 "visitor": "Canadiens",
 "home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "HNIC, TVA, ROOT"
-},{"date": "Wed Jan 7, 2015",
-"visitor": "Bruins",
+"time": "7:00 PM",
+"channel": "Thu Oct 15, 2015"
+},{"date": "Senators",
+"visitor": "Penguins",
+"home": "7:00 PM",
+"time": "Sat Oct 17, 2015",
+"channel": "Maple Leafs"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "HNIC",
+"time": "Tue Oct 20, 2015",
+"channel": "Panthers"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "TVA",
+"time": "Thu Oct 22, 2015",
+"channel": "Stars"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "Sat Oct 24, 2015",
+"time": "Penguins",
+"channel": "Predators"
+},{"date": "8:00 PM",
+"visitor": "Wed Oct 28, 2015",
 "home": "Penguins",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA"
-},{"date": "Sat Jan 10, 2015",
+"time": "Capitals",
+"channel": "8:00 PM"
+},{"date": "TVA",
+"visitor": "Thu Oct 29, 2015",
+"home": "Sabres",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Sat Oct 31, 2015",
 "visitor": "Penguins",
-"home": "Canadiens",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, HNIC, TVA, ROOT"
-},{"date": "Tue Jan 13, 2015",
-"visitor": "Wild",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NBCSN, ROOT"
-},{"date": "Fri Jan 16, 2015",
-"visitor": "Penguins",
-"home": "Islanders",
-"gametime": "7:00 PM",
-"channel": "TVA2, ROOT"
-},{"date": "Sun Jan 18, 2015",
-"visitor": "Rangers",
-"home": "Penguins",
-"gametime": "12:30 PM",
-"channel": "NBC, TVA, SN"
-},{"date": "Tue Jan 20, 2015",
-"visitor": "Penguins",
-"home": "Flyers",
-"gametime": "7:30 PM",
-"channel": "NBCSN, SN1, SNO, ROOT"
-},{"date": "Wed Jan 21, 2015",
-"visitor": "Blackhawks",
-"home": "Penguins",
-"gametime": "8:00 PM",
-"channel": "NBCSN"
-},{"date": "Tue Jan 27, 2015",
-"visitor": "Jets",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Jan 28, 2015",
-"visitor": "Penguins",
-"home": "Capitals",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA, SN1"
-},{"date": "Fri Jan 30, 2015",
-"visitor": "Penguins",
-"home": "Devils",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Sun Feb 1, 2015",
-"visitor": "Predators",
-"home": "Penguins",
-"gametime": "2:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Feb 4, 2015",
-"visitor": "Penguins",
-"home": "Oilers",
-"gametime": "8:00 PM",
-"channel": "SN, ROOT"
-},{"date": "Fri Feb 6, 2015",
-"visitor": "Penguins",
-"home": "Flames",
-"gametime": "9:00 PM",
-"channel": "ROOT"
-},{"date": "Sat Feb 7, 2015",
+"home": "Maple Leafs",
+"time": "7:00 PM",
+"channel": "HNIC"
+},{"date": "Wed Nov 4, 2015",
 "visitor": "Penguins",
 "home": "Canucks",
-"gametime": "10:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Wed Feb 11, 2015",
-"visitor": "Red Wings",
+"time": "10:00 PM",
+"channel": "Fri Nov 6, 2015"
+},{"date": "Penguins",
+"visitor": "Oilers",
+"home": "9:00 PM",
+"time": "Sat Nov 7, 2015",
+"channel": "Penguins"
+},{"date": "Flames",
+"visitor": "10:00 PM",
+"home": "HNIC",
+"time": "Wed Nov 11, 2015",
+"channel": "Canadiens"
+},{"date": "Penguins",
+"visitor": "7:30 PM",
+"home": "Fri Nov 13, 2015",
+"time": "Blue Jackets",
+"channel": "Penguins"
+},{"date": "7:00 PM",
+"visitor": "TVA",
+"home": "Sat Nov 14, 2015",
+"time": "Penguins",
+"channel": "Devils"
+},{"date": "7:00 PM",
+"visitor": "Tue Nov 17, 2015",
+"home": "Wild",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Thu Nov 19, 2015",
+"visitor": "Avalanche",
 "home": "Penguins",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA, SN1"
-},{"date": "Thu Feb 12, 2015",
+"time": "7:00 PM",
+"channel": "Sat Nov 21, 2015"
+},{"date": "Sharks",
 "visitor": "Penguins",
-"home": "Senators",
-"gametime": "7:30 PM",
-"channel": "ROOT"
-},{"date": "Sun Feb 15, 2015",
-"visitor": "Penguins",
-"home": "Blackhawks",
-"gametime": "12:30 PM",
-"channel": "NBC, TVA, SN"
-},{"date": "Tue Feb 17, 2015",
-"visitor": "Capitals",
+"home": "7:00 PM",
+"time": "Wed Nov 25, 2015",
+"channel": "Blues"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "Fri Nov 27, 2015",
+"time": "Penguins",
+"channel": "Blue Jackets"
+},{"date": "7:00 PM",
+"visitor": "Sat Nov 28, 2015",
+"home": "Oilers",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "HNIC",
+"visitor": "Tue Dec 1, 2015",
 "home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, SNE, SNW, SNP, ROOT"
-},{"date": "Thu Feb 19, 2015",
-"visitor": "Blue Jackets",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NBCSN, SN360, ROOT"
-},{"date": "Sat Feb 21, 2015",
-"visitor": "Penguins",
-"home": "Blues",
-"gametime": "8:00 PM",
-"channel": "HNIC, ROOT"
-},{"date": "Sun Feb 22, 2015",
-"visitor": "Panthers",
-"home": "Penguins",
-"gametime": "6:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Feb 25, 2015",
-"visitor": "Penguins",
-"home": "Capitals",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA, SN1"
-},{"date": "Sun Mar 1, 2015",
-"visitor": "Blue Jackets",
-"home": "Penguins",
-"gametime": "5:00 PM",
-"channel": "ROOT"
-},{"date": "Wed Mar 4, 2015",
-"visitor": "Penguins",
-"home": "Avalanche",
-"gametime": "10:00 PM",
-"channel": "ROOT"
-},{"date": "Fri Mar 6, 2015",
-"visitor": "Penguins",
-"home": "Ducks",
-"gametime": "10:00 PM",
-"channel": "ROOT"
-},{"date": "Sat Mar 7, 2015",
+"time": "Sharks",
+"channel": "10:30 PM"
+},{"date": "Sat Dec 5, 2015",
 "visitor": "Penguins",
 "home": "Kings",
-"gametime": "10:00 PM",
-"channel": "HNIC, TVA2, ROOT"
-},{"date": "Mon Mar 9, 2015",
-"visitor": "Penguins",
-"home": "Sharks",
-"gametime": "10:00 PM",
-"channel": "NBCSN, ROOT"
-},{"date": "Thu Mar 12, 2015",
-"visitor": "Oilers",
+"time": "4:00 PM",
+"channel": "Sun Dec 6, 2015"
+},{"date": "Penguins",
+"visitor": "Ducks",
+"home": "8:00 PM",
+"time": "Wed Dec 9, 2015",
+"channel": "Penguins"
+},{"date": "Avalanche",
+"visitor": "10:00 PM",
+"home": "TVA",
+"time": "Fri Dec 11, 2015",
+"channel": "Kings"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "Mon Dec 14, 2015",
+"time": "Capitals",
+"channel": "Penguins"
+},{"date": "7:00 PM",
+"visitor": "Wed Dec 16, 2015",
 "home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Sat Mar 14, 2015",
-"visitor": "Bruins",
+"time": "Bruins",
+"channel": "8:00 PM"
+},{"date": "TVA",
+"visitor": "Fri Dec 18, 2015",
+"home": "Bruins",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "TVA",
+"visitor": "Sat Dec 19, 2015",
+"home": "Hurricanes",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Mon Dec 21, 2015",
+"visitor": "Blue Jackets",
 "home": "Penguins",
-"gametime": "1:00 PM",
-"channel": "NHLNUS, TVA, ROOT"
-},{"date": "Sun Mar 15, 2015",
-"visitor": "Red Wings",
+"time": "7:00 PM",
+"channel": "Sat Dec 26, 2015"
+},{"date": "Penguins",
+"visitor": "Wild",
+"home": "8:00 PM",
+"time": "Sun Dec 27, 2015",
+"channel": "Penguins"
+},{"date": "Jets",
+"visitor": "8:00 PM",
+"home": "Wed Dec 30, 2015",
+"time": "Maple Leafs",
+"channel": "Penguins"
+},{"date": "7:00 PM",
+"visitor": "Thu Dec 31, 2015",
 "home": "Penguins",
-"gametime": "7:30 PM",
-"channel": "NBC, NBCSN, SN"
-},{"date": "Tue Mar 17, 2015",
+"time": "Red Wings",
+"channel": "6:00 PM"
+},{"date": "TVA",
+"visitor": "Sat Jan 2, 2016",
+"home": "Islanders",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "TVA",
+"visitor": "Tue Jan 5, 2016",
+"home": "Blackhawks",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Wed Jan 6, 2016",
 "visitor": "Penguins",
-"home": "Devils",
-"gametime": "7:00 PM",
-"channel": "TVA, SNE, SNO, SNP, ROOT"
-},{"date": "Thu Mar 19, 2015",
+"home": "Blackhawks",
+"time": "8:00 PM",
+"channel": "TVA"
+},{"date": "Sat Jan 9, 2016",
 "visitor": "Penguins",
-"home": "Stars",
-"gametime": "8:30 PM",
-"channel": "NHLNUS, SN360, ROOT"
-},{"date": "Sat Mar 21, 2015",
-"visitor": "Penguins",
-"home": "Coyotes",
-"gametime": "9:00 PM",
-"channel": "ROOT"
-},{"date": "Tue Mar 24, 2015",
-"visitor": "Blues",
-"home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "TVA, ROOT"
-},{"date": "Thu Mar 26, 2015",
+"home": "Canadiens",
+"time": "7:00 PM",
+"channel": "HNIC, TVA"
+},{"date": "Tue Jan 12, 2016",
 "visitor": "Penguins",
 "home": "Hurricanes",
-"gametime": "7:00 PM",
-"channel": "ROOT"
-},{"date": "Sat Mar 28, 2015",
+"time": "7:00 PM",
+"channel": "TVA"
+},{"date": "Fri Jan 15, 2016",
+"visitor": "Penguins",
+"home": "Lightning",
+"time": "7:30 PM",
+"channel": "TVA"
+},{"date": "Sun Jan 17, 2016",
+"visitor": "Hurricanes",
+"home": "Penguins",
+"time": "3:00 PM",
+"channel": "Mon Jan 18, 2016"
+},{"date": "Penguins",
+"visitor": "Blues",
+"home": "8:00 PM",
+"time": "TVA",
+"channel": "Thu Jan 21, 2016"
+},{"date": "Flyers",
+"visitor": "Penguins",
+"home": "7:00 PM",
+"time": "Sat Jan 23, 2016",
+"channel": "Canucks"
+},{"date": "Penguins",
+"visitor": "12:30 PM",
+"home": "Sun Jan 24, 2016",
+"time": "Penguins",
+"channel": "Capitals"
+},{"date": "12:30 PM",
+"visitor": "Tue Jan 26, 2016",
+"home": "Devils",
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Tue Feb 2, 2016",
+"visitor": "Senators",
+"home": "Penguins",
+"time": "7:00 PM",
+"channel": "Fri Feb 5, 2016"
+},{"date": "Penguins",
+"visitor": "Lightning",
+"home": "7:30 PM",
+"time": "TVA",
+"channel": "Sat Feb 6, 2016"
+},{"date": "Penguins",
+"visitor": "Panthers",
+"home": "7:00 PM",
+"time": "Mon Feb 8, 2016",
+"channel": "Ducks"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "TVA",
+"time": "Wed Feb 10, 2016",
+"channel": "Rangers"
+},{"date": "Penguins",
+"visitor": "8:00 PM",
+"home": "TVA",
+"time": "Fri Feb 12, 2016",
+"channel": "Penguins"
+},{"date": "Hurricanes",
+"visitor": "7:00 PM",
+"home": "Mon Feb 15, 2016",
+"time": "Penguins",
+"channel": "Panthers"
+},{"date": "7:30 PM",
+"visitor": "TVA",
+"home": "Thu Feb 18, 2016",
+"time": "Red Wings",
+"channel": "Penguins"
+},{"date": "7:00 PM",
+"visitor": "TVA",
+"home": "Sat Feb 20, 2016",
+"time": "Lightning",
+"channel": "Penguins"
+},{"date": "12:30 PM",
+"visitor": "Sun Feb 21, 2016",
+"home": "Penguins",
+"time": "Sabres",
+"channel": "12:30 PM"
+},{"date": "Wed Feb 24, 2016",
+"visitor": "Penguins",
+"home": "Bruins",
+"time": "8:00 PM",
+"channel": "TVA"
+},{"date": "Sat Feb 27, 2016",
+"visitor": "Jets",
+"home": "Penguins",
+"time": "3:00 PM",
+"channel": "HNIC"
+},{"date": "Mon Feb 29, 2016",
 "visitor": "Coyotes",
 "home": "Penguins",
-"gametime": "1:00 PM",
-"channel": "ROOT"
-},{"date": "Sun Mar 29, 2015",
-"visitor": "Sharks",
+"time": "7:00 PM",
+"channel": "Thu Mar 3, 2016"
+},{"date": "Rangers",
+"visitor": "Penguins",
+"home": "7:00 PM",
+"time": "Sat Mar 5, 2016",
+"channel": "Flames"
+},{"date": "Penguins",
+"visitor": "3:00 PM",
+"home": "HNIC",
+"time": "Sun Mar 6, 2016",
+"channel": "Penguins"
+},{"date": "Devils",
+"visitor": "5:00 PM",
+"home": "Tue Mar 8, 2016",
+"time": "Penguins",
+"channel": "Islanders"
+},{"date": "7:00 PM",
+"visitor": "Fri Mar 11, 2016",
 "home": "Penguins",
-"gametime": "7:30 PM",
-"channel": "NBCSN, ROOT"
-},{"date": "Wed Apr 1, 2015",
-"visitor": "Flyers",
-"home": "Penguins",
-"gametime": "8:00 PM",
-"channel": "NBCSN, TVA, SN1"
-},{"date": "Sat Apr 4, 2015",
+"time": "Blue Jackets",
+"channel": "7:00 PM"
+},{"date": "Sun Mar 13, 2016",
 "visitor": "Penguins",
-"home": "Blue Jackets",
-"gametime": "2:00 PM",
-"channel": "NHLNUS, ROOT"
-},{"date": "Sun Apr 5, 2015",
-"visitor": "Penguins",
-"home": "Flyers",
-"gametime": "7:30 PM",
-"channel": "NBC, NBCSN"
-},{"date": "Tue Apr 7, 2015",
-"visitor": "Penguins",
-"home": "Senators",
-"gametime": "7:30 PM",
-"channel": "ROOT"
-},{"date": "Fri Apr 10, 2015",
+"home": "Rangers",
+"time": "12:30 PM",
+"channel": "TVA"
+},{"date": "Tue Mar 15, 2016",
 "visitor": "Islanders",
 "home": "Penguins",
-"gametime": "7:00 PM",
-"channel": "NHLNUS, SN, TVA2, ROOT"
-},{"date": "Sat Apr 11, 2015",
-"visitor": "Penguins",
+"time": "7:00 PM",
+"channel": "TVA"
+},{"date": "Thu Mar 17, 2016",
+"visitor": "Hurricanes",
+"home": "Penguins",
+"time": "7:00 PM",
+"channel": "Sat Mar 19, 2016"
+},{"date": "Penguins",
+"visitor": "Flyers",
+"home": "1:00 PM",
+"time": "Sun Mar 20, 2016",
+"channel": "Capitals"
+},{"date": "Penguins",
+"visitor": "6:00 PM",
+"home": "TVA",
+"time": "Thu Mar 24, 2016",
+"channel": "Devils"
+},{"date": "Penguins",
+"visitor": "7:00 PM",
+"home": "Sat Mar 26, 2016",
+"time": "Penguins",
+"channel": "Red Wings"
+},{"date": "2:00 PM",
+"visitor": "Sun Mar 27, 2016",
+"home": "Penguins",
+"time": "Rangers",
+"channel": "7:30 PM"
+},{"date": "TVA",
+"visitor": "Tue Mar 29, 2016",
 "home": "Sabres",
-"gametime": "7:00 PM",
-"channel": "HNIC, ROOT"
-}]
+"time": "Penguins",
+"channel": "7:00 PM"
+},{"date": "Thu Mar 31, 2016",
+"visitor": "Predators",
+"home": "Penguins",
+"time": "7:00 PM",
+"channel": "TVA"
+},{"date": "Sat Apr 2, 2016",
+"visitor": "Penguins",
+"home": "Islanders",
+"time": "1:00 PM",
+"channel": "Sun Apr 3, 2016"
+},{"date": "Flyers",
+"visitor": "Penguins",
+"home": "3:00 PM",
+"time": "Tue Apr 5, 2016",
+"channel": "Penguins"
+},{"date": "Senators",
+"visitor": "7:30 PM",
+"home": "Thu Apr 7, 2016",
+"time": "Penguins",
+"channel": "Capitals"
+},{"date": "7:00 PM",
+"visitor": "Sat Apr 9, 2016",
+"home": "Penguins",
+"time": "Flyers",
+"channel": "3:00 PM"
+}]}

@@ -20,14 +20,3 @@ $(document).ready(function () {
     });
 
 });
-
-function sortByDate(a, b) {
-    var bkg = chrome.extension.getBackgroundPage();
-    bkg.console.log(a.date);
-    bkg.console.log(new Date(a.date) < new Date.setDate())
-    if (new Date(a.date) > new Date) {
-        return -1;
-    } else {
-        return 1;
-    }
-}

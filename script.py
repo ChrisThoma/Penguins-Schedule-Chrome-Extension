@@ -2,7 +2,7 @@ import requests
 from lxml import html
 import string
 
-BASE_URL = "http://penguins.nhl.com/club/schedule.htm?season=20142015&gameType=4"
+BASE_URL = "http://penguins.nhl.com/club/schedule.htm?"
 
 def create_json():
 	schedule = open("schedule.json", "w")
