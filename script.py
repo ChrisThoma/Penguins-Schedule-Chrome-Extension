@@ -26,6 +26,7 @@ def create_json():
 				tojson = tojson + "\"time\": "
 			elif count == 4:
 				tojson = tojson + "\"channel\": "
+				#do nothing
 			count = (count + 1) % 5
 			if count == 0:
 				tojson = tojson + "\"" + tableitem + "\"\n"

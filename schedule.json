@@ -1,4 +1,4 @@
-[{"date": "Thu Oct 8, 2015",
+{"games": [{"date": "Thu Oct 8, 2015",
 "visitor": "Penguins",
 "home": "Stars",
 "time": "8:30 PM",
@@ -408,4 +408,4 @@
 "home": "Flyers",
 "time": "3:00 PM",
 "channel": "NBC"
-}]
+}]}
