@@ -1,6 +1,6 @@
 {
   "name": "PENGUINS SCHEDULE",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "manifest_version": 2,
   "description": "A quick way to view the entire Pittsburgh Penguins schedule.",
   "icons": {
@@ -14,7 +14,7 @@
   },
   "browser_action": {
     "default_icon": "src/browser_action/images/icon.png",
-    "default_title": "browser action demo",
+    "default_title": "Penguins Schedule",
     "default_popup": "src/browser_action/browser_action.html"
   }
 }
