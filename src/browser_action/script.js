@@ -4,12 +4,17 @@ $(document).ready(function () {
         var tr;
         console.log(json);
         for (var i = 0; i < json.length; i++) {
+            console.log("hello")
             tr = $('<tr/>');
+            console.log(tr)
+            tr.append("<td>" + json[i].day + "</td>");
+            console.log(tr)
             tr.append("<td>" + json[i].date + "</td>");
-            tr.append("<td>" + json[i].visitor + "</td>");
-            tr.append("<td>" + json[i].home + "</td>");
+            console.log(tr)
             tr.append("<td>" + json[i].time + "</td>");
-            tr.append("<td>" + json[i].channel + "</td>");
+            console.log(tr)
+            tr.append("<td>" + json[i].opponent + "</td>");
+            console.log(tr)
             yesterday = new Date;
             yesterday.setDate(yesterday.getDate() - 1)
             if (new Date(json[i].date) < yesterday) {

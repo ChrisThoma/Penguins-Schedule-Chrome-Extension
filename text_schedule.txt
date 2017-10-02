@@ -1,0 +1,82 @@
+Wed	Oct 04, 2017	8:00 PM	vs Blues
+Thu	Oct 05, 2017	8:30 PM	@ Blackhawks
+Sat	Oct 07, 2017	7:00 PM	vs Predators
+Wed	Oct 11, 2017 	7:30 PM	@ Capitals
+Thu	Oct 12, 2017 	7:30 PM	@ Lightning
+Sat	Oct 14, 2017 	7:00 PM	vs Panthers
+Tue	Oct 17, 2017 	7:00 PM	@ Rangers
+Fri	Oct 20, 2017 	7:30 PM	@ Panthers
+Sat	Oct 21, 2017 	7:00 PM	@ Lightning
+Tue	Oct 24, 2017 	7:00 PM	vs Oilers
+Thu	Oct 26, 2017 	7:00 PM	vs Jets
+Sat	Oct 28, 2017 	8:00 PM	@ Wild
+Sun	Oct 29, 2017 	7:00 PM	@ Jets
+Wed	Nov 01, 2017	8:30 PM	@ Oilers
+Thu	Nov 02, 2017	9:00 PM	@ Flames
+Sat	Nov 04, 2017	10:00 PM	@ Canucks
+Tue	Nov 07, 2017	7:00 PM	vs Coyotes
+Fri	Nov 10, 2017 	7:00 PM	@ Capitals
+Sat	Nov 11, 2017 	8:00 PM	@ Predators
+Tue	Nov 14, 2017 	7:00 PM	vs Sabres
+Thu	Nov 16, 2017 	7:30 PM	@ Senators
+Sat	Nov 18, 2017 	7:00 PM	vs Blackhawks
+Wed	Nov 22, 2017 	7:00 PM	vs Canucks
+Fri	Nov 24, 2017 	1:00 PM	@ Bruins
+Sat	Nov 25, 2017 	7:00 PM	vs Lightning
+Mon	Nov 27, 2017 	7:00 PM	vs Flyers
+Fri	Dec 01, 2017	7:00 PM	@ Sabres
+Sat	Dec 02, 2017	7:00 PM	vs Sabres
+Tue	Dec 05, 2017	7:30 PM	vs Rangers
+Thu	Dec 07, 2017	7:00 PM	vs Islanders
+Sat	Dec 09, 2017	7:00 PM	vs Maple Leafs
+Mon	Dec 11, 2017 	7:00 PM	vs Avalanche
+Thu	Dec 14, 2017 	10:00 PM	@ Golden Knights
+Sat	Dec 16, 2017 	8:00 PM	@ Coyotes
+Mon	Dec 18, 2017 	9:00 PM	@ Avalanche
+Thu	Dec 21, 2017 	7:00 PM	vs Blue Jackets
+Sat	Dec 23, 2017 	7:00 PM	vs Ducks
+Wed	Dec 27, 2017 	7:00 PM	vs Blue Jackets
+Fri	Dec 29, 2017 	7:30 PM	@ Hurricanes
+Sun	Dec 31, 2017 	7:00 PM	@ Red Wings
+Tue	Jan 02, 2018	7:00 PM	@ Flyers
+Thu	Jan 04, 2018	7:00 PM	vs Hurricanes
+Fri	Jan 05, 2018	7:00 PM	@ Islanders
+Sun	Jan 07, 2018	7:30 PM	vs Bruins
+Sat	Jan 13, 2018	1:00 PM	vs Red Wings
+Sun	Jan 14, 2018	12:30 PM	vs Rangers
+Wed	Jan 17, 2018	10:00 PM	@ Ducks
+Thu	Jan 18, 2018	10:00 PM	@ Kings
+Sat	Jan 20, 2018	8:00 PM	@ Sharks
+Tue	Jan 23, 2018	7:00 PM	vs Hurricanes
+Thu	Jan 25, 2018	7:00 PM	vs Wild
+Tue	Jan 30, 2018	7:00 PM	vs Sharks
+Fri	Feb 02, 2018	7:00 PM	vs Capitals
+Sat	Feb 03, 2018	7:00 PM	@ Devils
+Tue	Feb 06, 2018	7:00 PM	vs Golden Knights
+Fri	Feb 09, 2018	8:30 PM	@ Stars
+Sun	Feb 11, 2018	3:00 PM	@ Blues
+Tue	Feb 13, 2018	7:00 PM	vs Senators
+Thu	Feb 15, 2018	7:00 PM	vs Kings
+Sat	Feb 17, 2018	7:00 PM	vs Maple Leafs
+Sun	Feb 18, 2018	6:00 PM	@ Blue Jackets
+Fri	Feb 23, 2018	7:30 PM	@ Hurricanes
+Sat	Feb 24, 2018	7:00 PM	@ Panthers
+Tue	Feb 27, 2018	7:00 PM	vs Devils
+Thu	Mar 01, 2018	7:00 PM	@ Bruins
+Sat	Mar 03, 2018	5:00 PM	vs Islanders
+Mon	Mar 05, 2018	7:00 PM	vs Flames
+Wed	Mar 07, 2018	8:00 PM	@ Flyers
+Sat	Mar 10, 2018	7:00 PM	@ Maple Leafs
+Sun	Mar 11, 2018	7:30 PM	vs Stars
+Wed	Mar 14, 2018	8:00 PM	@ Rangers
+Thu	Mar 15, 2018	7:30 PM	@ Canadiens
+Tue	Mar 20, 2018	7:00 PM	@ Islanders
+Wed	Mar 21, 2018	7:00 PM	vs Canadiens
+Fri	Mar 23, 2018	7:00 PM	vs Devils
+Sun	Mar 25, 2018	12:30 PM	vs Flyers
+Tue	Mar 27, 2018	7:30 PM	@ Red Wings
+Thu	Mar 29, 2018	7:00 PM	@ Devils
+Sat	Mar 31, 2018	7:00 PM	vs Canadiens
+Sun	Apr 01, 2018	7:30 PM	vs Capitals
+Thu	Apr 05, 2018	7:00 PM	@ Blue Jackets
+Fri	Apr 06, 2018	7:30 PM	vs Senators
