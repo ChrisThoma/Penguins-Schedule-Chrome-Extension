@@ -5,10 +5,8 @@ const upcomingGames = document.getElementById('upcoming_games');
 const pastGames = document.getElementById('previous_games');
 
 function createUpcomingGamesTable(data) {
-    console.log(data);
     for (let date of data.dates) {
         let dateObj = Date.parse(date.date);
-        console.log(isDateBeforeToday(dateObj));
         if (isDateBeforeToday(dateObj)) {
             addDateToTable(date.games[0], pastGames);
         } else {
