@@ -1,0 +1,4923 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2021. All Rights Reserved.",
+  "totalItems" : 82,
+  "totalEvents" : 0,
+  "totalGames" : 82,
+  "totalMatches" : 0,
+  "metaData" : {
+    "timeStamp" : "20211018_160337"
+  },
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2021-10-12",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020001,
+      "link" : "/api/v1/game/2021020001/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-12T23:30:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 14,
+            "name" : "Tampa Bay Lightning",
+            "link" : "/api/v1/teams/14"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5017,
+        "name" : "Amalie Arena",
+        "link" : "/api/v1/venues/5017"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020001/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-14",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020010,
+      "link" : "/api/v1/game/2021020010/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-14T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5027,
+        "name" : "FLA Live Arena",
+        "link" : "/api/v1/venues/5027"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020010/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-16",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020026,
+      "link" : "/api/v1/game/2021020026/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-16T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 16,
+            "name" : "Chicago Blackhawks",
+            "link" : "/api/v1/teams/16"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020026/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-19",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020044,
+      "link" : "/api/v1/game/2021020044/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-19T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 25,
+            "name" : "Dallas Stars",
+            "link" : "/api/v1/teams/25"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020044/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020071,
+      "link" : "/api/v1/game/2021020071/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-23T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 10,
+            "name" : "Toronto Maple Leafs",
+            "link" : "/api/v1/teams/10"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020071/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020091,
+      "link" : "/api/v1/game/2021020091/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-26T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 14,
+            "name" : "Tampa Bay Lightning",
+            "link" : "/api/v1/teams/14"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020091/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-28",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020103,
+      "link" : "/api/v1/game/2021020103/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-28T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 20,
+            "name" : "Calgary Flames",
+            "link" : "/api/v1/teams/20"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020103/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-10-30",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020119,
+      "link" : "/api/v1/game/2021020119/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-10-30T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020119/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-04",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020153,
+      "link" : "/api/v1/game/2021020153/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-04T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020153/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-06",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020167,
+      "link" : "/api/v1/game/2021020167/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-06T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 30,
+            "name" : "Minnesota Wild",
+            "link" : "/api/v1/teams/30"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020167/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-09",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020187,
+      "link" : "/api/v1/game/2021020187/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-10T01:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 16,
+            "name" : "Chicago Blackhawks",
+            "link" : "/api/v1/teams/16"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5092,
+        "name" : "United Center",
+        "link" : "/api/v1/venues/5092"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020187/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020200,
+      "link" : "/api/v1/game/2021020200/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-12T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020200/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-13",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020212,
+      "link" : "/api/v1/game/2021020212/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-14T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5031,
+        "name" : "Canadian Tire Centre",
+        "link" : "/api/v1/venues/5031"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020212/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-14",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020227,
+      "link" : "/api/v1/game/2021020227/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-15T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5094,
+        "name" : "Capital One Arena",
+        "link" : "/api/v1/venues/5094"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020227/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-16",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020237,
+      "link" : "/api/v1/game/2021020237/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-17T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020237/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-18",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020249,
+      "link" : "/api/v1/game/2021020249/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-19T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Centre Bell",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020249/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-20",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020261,
+      "link" : "/api/v1/game/2021020261/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-21T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 10,
+            "name" : "Toronto Maple Leafs",
+            "link" : "/api/v1/teams/10"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Scotiabank Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020261/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-22",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020284,
+      "link" : "/api/v1/game/2021020284/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-23T01:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 52,
+            "name" : "Winnipeg Jets",
+            "link" : "/api/v1/teams/52"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5058,
+        "name" : "Canada Life Centre",
+        "link" : "/api/v1/venues/5058"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020284/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-24",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020295,
+      "link" : "/api/v1/game/2021020295/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-25T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020295/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020307,
+      "link" : "/api/v1/game/2021020307/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-27T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 2,
+            "name" : "New York Islanders",
+            "link" : "/api/v1/teams/2"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "UBS Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020307/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020319,
+      "link" : "/api/v1/game/2021020319/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-28T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020319/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-11-29",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020336,
+      "link" : "/api/v1/game/2021020336/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-11-30T02:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 20,
+            "name" : "Calgary Flames",
+            "link" : "/api/v1/teams/20"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5075,
+        "name" : "Scotiabank Saddledome",
+        "link" : "/api/v1/venues/5075"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020336/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-01",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020350,
+      "link" : "/api/v1/game/2021020350/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-02T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5100,
+        "name" : "Rogers Place",
+        "link" : "/api/v1/venues/5100"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020350/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-04",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020376,
+      "link" : "/api/v1/game/2021020376/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-05T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 23,
+            "name" : "Vancouver Canucks",
+            "link" : "/api/v1/teams/23"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5073,
+        "name" : "Rogers Arena",
+        "link" : "/api/v1/venues/5073"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020376/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-06",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020387,
+      "link" : "/api/v1/game/2021020387/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-07T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 55,
+            "name" : "Seattle Kraken",
+            "link" : "/api/v1/teams/55"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Climate Pledge Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020387/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-10",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020414,
+      "link" : "/api/v1/game/2021020414/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-11T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5094,
+        "name" : "Capital One Arena",
+        "link" : "/api/v1/venues/5094"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020414/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020423,
+      "link" : "/api/v1/game/2021020423/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-12T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 24,
+            "name" : "Anaheim Ducks",
+            "link" : "/api/v1/teams/24"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020423/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-14",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020442,
+      "link" : "/api/v1/game/2021020442/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-15T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020442/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-17",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020466,
+      "link" : "/api/v1/game/2021020466/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-18T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020466/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-19",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020482,
+      "link" : "/api/v1/game/2021020482/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-20T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Prudential Center",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020482/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-21",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020497,
+      "link" : "/api/v1/game/2021020497/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-22T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020497/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020514,
+      "link" : "/api/v1/game/2021020514/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-24T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020514/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020523,
+      "link" : "/api/v1/game/2021020523/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-28T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 6,
+            "name" : "Boston Bruins",
+            "link" : "/api/v1/teams/6"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5085,
+        "name" : "TD Garden",
+        "link" : "/api/v1/venues/5085"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020523/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-29",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020542,
+      "link" : "/api/v1/game/2021020542/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-30T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 10,
+            "name" : "Toronto Maple Leafs",
+            "link" : "/api/v1/teams/10"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Scotiabank Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020542/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2021-12-31",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020559,
+      "link" : "/api/v1/game/2021020559/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2021-12-31T18:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5031,
+        "name" : "Canadian Tire Centre",
+        "link" : "/api/v1/venues/5031"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020559/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-02",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020577,
+      "link" : "/api/v1/game/2021020577/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-02T18:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 28,
+            "name" : "San Jose Sharks",
+            "link" : "/api/v1/teams/28"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020577/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-05",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020597,
+      "link" : "/api/v1/game/2021020597/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-06T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 19,
+            "name" : "St. Louis Blues",
+            "link" : "/api/v1/teams/19"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020597/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-06",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020604,
+      "link" : "/api/v1/game/2021020604/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-07T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5096,
+        "name" : "Wells Fargo Center",
+        "link" : "/api/v1/venues/5096"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020604/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-08",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020619,
+      "link" : "/api/v1/game/2021020619/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-08T19:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 25,
+            "name" : "Dallas Stars",
+            "link" : "/api/v1/teams/25"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5019,
+        "name" : "American Airlines Center",
+        "link" : "/api/v1/venues/5019"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020619/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020644,
+      "link" : "/api/v1/game/2021020644/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-12T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 24,
+            "name" : "Anaheim Ducks",
+            "link" : "/api/v1/teams/24"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5046,
+        "name" : "Honda Center",
+        "link" : "/api/v1/venues/5046"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020644/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-13",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020659,
+      "link" : "/api/v1/game/2021020659/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-14T03:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5081,
+        "name" : "STAPLES Center",
+        "link" : "/api/v1/venues/5081"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020659/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-15",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020678,
+      "link" : "/api/v1/game/2021020678/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-16T03:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 28,
+            "name" : "San Jose Sharks",
+            "link" : "/api/v1/teams/28"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "SAP Center at San Jose",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020678/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-17",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020688,
+      "link" : "/api/v1/game/2021020688/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-18T03:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 54,
+            "name" : "Vegas Golden Knights",
+            "link" : "/api/v1/teams/54"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5178,
+        "name" : "T-Mobile Arena",
+        "link" : "/api/v1/venues/5178"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020688/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-20",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020707,
+      "link" : "/api/v1/game/2021020707/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-21T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020707/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-21",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020716,
+      "link" : "/api/v1/game/2021020716/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-22T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5059,
+        "name" : "Nationwide Arena",
+        "link" : "/api/v1/venues/5059"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020716/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020733,
+      "link" : "/api/v1/game/2021020733/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-23T18:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 52,
+            "name" : "Winnipeg Jets",
+            "link" : "/api/v1/teams/52"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020733/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-25",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020747,
+      "link" : "/api/v1/game/2021020747/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-26T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 53,
+            "name" : "Arizona Coyotes",
+            "link" : "/api/v1/teams/53"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020747/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020762,
+      "link" : "/api/v1/game/2021020762/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-28T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 55,
+            "name" : "Seattle Kraken",
+            "link" : "/api/v1/teams/55"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020762/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-28",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020768,
+      "link" : "/api/v1/game/2021020768/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-29T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020768/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-01-30",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020786,
+      "link" : "/api/v1/game/2021020786/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-01-30T18:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020786/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-02-01",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020802,
+      "link" : "/api/v1/game/2021020802/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-02-02T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020802/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-02-24",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020817,
+      "link" : "/api/v1/game/2021020817/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-02-25T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Prudential Center",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020817/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-02-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020833,
+      "link" : "/api/v1/game/2021020833/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-02-26T20:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020833/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-02-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020841,
+      "link" : "/api/v1/game/2021020841/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-02-27T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5059,
+        "name" : "Nationwide Arena",
+        "link" : "/api/v1/venues/5059"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020841/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-03",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020864,
+      "link" : "/api/v1/game/2021020864/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-04T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 14,
+            "name" : "Tampa Bay Lightning",
+            "link" : "/api/v1/teams/14"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5017,
+        "name" : "Amalie Arena",
+        "link" : "/api/v1/venues/5017"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020864/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-04",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020876,
+      "link" : "/api/v1/game/2021020876/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-05T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 12,
+            "name" : "Carolina Hurricanes",
+            "link" : "/api/v1/teams/12"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5066,
+        "name" : "PNC Arena",
+        "link" : "/api/v1/venues/5066"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020876/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-08",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020906,
+      "link" : "/api/v1/game/2021020906/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-09T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020906/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-10",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020922,
+      "link" : "/api/v1/game/2021020922/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-11T00:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 2,
+            "name" : "New York Islanders",
+            "link" : "/api/v1/teams/2"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "UBS Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020922/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020929,
+      "link" : "/api/v1/game/2021020929/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-12T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 54,
+            "name" : "Vegas Golden Knights",
+            "link" : "/api/v1/teams/54"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020929/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-13",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020945,
+      "link" : "/api/v1/game/2021020945/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-13T22:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 12,
+            "name" : "Carolina Hurricanes",
+            "link" : "/api/v1/teams/12"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020945/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-15",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020958,
+      "link" : "/api/v1/game/2021020958/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-16T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 18,
+            "name" : "Nashville Predators",
+            "link" : "/api/v1/teams/18"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5030,
+        "name" : "Bridgestone Arena",
+        "link" : "/api/v1/venues/5030"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020958/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-17",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020972,
+      "link" : "/api/v1/game/2021020972/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-18T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 19,
+            "name" : "St. Louis Blues",
+            "link" : "/api/v1/teams/19"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5076,
+        "name" : "Enterprise Center",
+        "link" : "/api/v1/venues/5076"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020972/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-19",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021020991,
+      "link" : "/api/v1/game/2021020991/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-19T21:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 53,
+            "name" : "Arizona Coyotes",
+            "link" : "/api/v1/teams/53"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5043,
+        "name" : "Gila River Arena",
+        "link" : "/api/v1/venues/5043"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021020991/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-22",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021007,
+      "link" : "/api/v1/game/2021021007/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-22T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021007/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021014,
+      "link" : "/api/v1/game/2021021014/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-23T23:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 7,
+            "name" : "Buffalo Sabres",
+            "link" : "/api/v1/teams/7"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5039,
+        "name" : "KeyBank Center",
+        "link" : "/api/v1/venues/5039"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021014/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-25",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021029,
+      "link" : "/api/v1/game/2021021029/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-25T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5054,
+        "name" : "Madison Square Garden",
+        "link" : "/api/v1/venues/5054"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021029/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021050,
+      "link" : "/api/v1/game/2021021050/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-27T21:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021050/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-29",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021062,
+      "link" : "/api/v1/game/2021021062/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-03-29T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021062/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-03-31",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021079,
+      "link" : "/api/v1/game/2021021079/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-01T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 30,
+            "name" : "Minnesota Wild",
+            "link" : "/api/v1/teams/30"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5098,
+        "name" : "Xcel Energy Center",
+        "link" : "/api/v1/venues/5098"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021079/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-02",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021097,
+      "link" : "/api/v1/game/2021021097/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-02T19:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 21,
+            "name" : "Colorado Avalanche",
+            "link" : "/api/v1/teams/21"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5064,
+        "name" : "Ball Arena",
+        "link" : "/api/v1/venues/5064"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021097/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-05",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021119,
+      "link" : "/api/v1/game/2021021119/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-05T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 21,
+            "name" : "Colorado Avalanche",
+            "link" : "/api/v1/teams/21"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021119/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-07",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021129,
+      "link" : "/api/v1/game/2021021129/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-07T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 3,
+            "name" : "New York Rangers",
+            "link" : "/api/v1/teams/3"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5054,
+        "name" : "Madison Square Garden",
+        "link" : "/api/v1/venues/5054"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021129/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-09",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021146,
+      "link" : "/api/v1/game/2021021146/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-09T19:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 15,
+            "name" : "Washington Capitals",
+            "link" : "/api/v1/teams/15"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021146/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-10",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021157,
+      "link" : "/api/v1/game/2021021157/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-10T20:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 18,
+            "name" : "Nashville Predators",
+            "link" : "/api/v1/teams/18"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021157/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-12",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021169,
+      "link" : "/api/v1/game/2021021169/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-12T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021169/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-14",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021185,
+      "link" : "/api/v1/game/2021021185/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-14T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 2,
+            "name" : "New York Islanders",
+            "link" : "/api/v1/teams/2"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021185/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-16",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021196,
+      "link" : "/api/v1/game/2021021196/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-16T16:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 6,
+            "name" : "Boston Bruins",
+            "link" : "/api/v1/teams/6"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5085,
+        "name" : "TD Garden",
+        "link" : "/api/v1/venues/5085"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021196/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-21",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021238,
+      "link" : "/api/v1/game/2021021238/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-21T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 6,
+            "name" : "Boston Bruins",
+            "link" : "/api/v1/teams/6"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021238/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021251,
+      "link" : "/api/v1/game/2021021251/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-23T16:30:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 17,
+            "name" : "Detroit Red Wings",
+            "link" : "/api/v1/teams/17"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5145,
+        "name" : "Little Caesars Arena",
+        "link" : "/api/v1/venues/5145"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021251/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-24",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021264,
+      "link" : "/api/v1/game/2021021264/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-24T20:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 4,
+            "name" : "Philadelphia Flyers",
+            "link" : "/api/v1/teams/4"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5096,
+        "name" : "Wells Fargo Center",
+        "link" : "/api/v1/venues/5096"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021264/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021278,
+      "link" : "/api/v1/game/2021021278/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-26T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 22,
+            "name" : "Edmonton Oilers",
+            "link" : "/api/v1/teams/22"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021278/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "2022-04-29",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2021021304,
+      "link" : "/api/v1/game/2021021304/feed/live",
+      "gameType" : "R",
+      "season" : "20212022",
+      "gameDate" : "2022-04-29T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Preview",
+        "codedGameState" : "1",
+        "detailedState" : "Scheduled",
+        "statusCode" : "1",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 12,
+            "name" : "Carolina Hurricanes",
+            "link" : "/api/v1/teams/12"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 5,
+            "name" : "Pittsburgh Penguins",
+            "link" : "/api/v1/teams/5"
+          }
+        }
+      },
+      "venue" : {
+        "id" : 5034,
+        "name" : "PPG Paints Arena",
+        "link" : "/api/v1/venues/5034"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2021021304/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}
