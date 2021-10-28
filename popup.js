@@ -1,4 +1,6 @@
-const today = new Date((new Date()).toString().substring(0, 15));
+var yesterdayDate = new Date();
+yesterdayDate.setDate(yesterdayDate.getDate()-1);
+const yesterday =  new Date(yesterdayDate.toString().substring(0, 15));
 
 const upcomingGames = document.getElementById('upcoming_games');
 
@@ -31,7 +33,7 @@ function addDateToTable(gameInfo, table) {
 }
 
 function isDateBeforeToday(date) {
-    return date < today;
+    return date < yesterday;
 }
 
 fetch("./schedule.json")
