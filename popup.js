@@ -42,3 +42,5 @@ fetch("./schedule.json")
     }).then(data => {
         createUpcomingGamesTable(data);
     });
+
+// https://statsapi.web.nhl.com/api/v1/schedule?startDate=2022-10-13&endDate=2023-06-30&teamId=5
