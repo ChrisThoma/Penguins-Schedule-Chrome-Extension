@@ -7,19 +7,19 @@ const upcomingGames = document.getElementById('upcoming_games');
 const pastGames = document.getElementById('previous_games');
 
 function createUpcomingGamesTable(data) {
-    for (let date of data.dates) {
-        let dateObj = Date.parse(date.date);
+    for (let game of data.games) {
+        let dateObj = Date.parse(game.gameDate);
         if (isDateBeforeToday(dateObj)) {
-            addDateToTable(date.games[0], pastGames);
+            addDateToTable(game, pastGames);
         } else {
-            addDateToTable(date.games[0], upcomingGames);
+            addDateToTable(game, upcomingGames);
         }
     }
 }
 
 function addDateToTable(gameInfo, table) {
     var row = table.insertRow();
-    let gameDate = new Date(gameInfo.gameDate);
+    let gameDate = new Date(gameInfo.startTimeUTC);
     var dateCell = row.insertCell();
     var timeCell = row.insertCell();
     var homeCell = row.insertCell();
@@ -28,8 +28,8 @@ function addDateToTable(gameInfo, table) {
     dateCell.innerHTML = gameDate.toLocaleString('default', { month: 'long' }) + " " +
         gameDate.toLocaleString('default', { day: 'numeric' });
     timeCell.innerHTML = gameDate.toLocaleTimeString('default', { hour: '2-digit', minute: '2-digit' });
-    homeCell.innerHTML = gameInfo.teams.home.team.name;
-    awayCell.innerHTML = gameInfo.teams.away.team.name;
+    homeCell.innerHTML = gameInfo.homeTeam.placeName.default;
+    awayCell.innerHTML = gameInfo.awayTeam.placeName.default
 }
 
 function isDateBeforeToday(date) {
@@ -43,4 +43,4 @@ fetch("./schedule.json")
         createUpcomingGamesTable(data);
     });
 
-// https://statsapi.web.nhl.com/api/v1/schedule?startDate=2023-10-09&endDate=2024-06-30&teamId=5
+// https://api-web.nhle.com/v1/club-schedule-season/pit/20242025
