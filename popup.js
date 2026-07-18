@@ -43,4 +43,4 @@ fetch("./schedule.json")
         createUpcomingGamesTable(data);
     });
 
-// https://api-web.nhle.com/v1/club-schedule-season/pit/20242025
+// https://api-web.nhle.com/v1/club-schedule-season/pit/20262027
