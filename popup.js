@@ -25,11 +25,11 @@ function addDateToTable(gameInfo, table) {
     var homeCell = row.insertCell();
     var awayCell = row.insertCell();
 
-    dateCell.innerHTML = gameDate.toLocaleString('default', { month: 'long' }) + " " +
+    dateCell.textContent = gameDate.toLocaleString('default', { month: 'long' }) + " " +
         gameDate.toLocaleString('default', { day: 'numeric' });
-    timeCell.innerHTML = gameDate.toLocaleTimeString('default', { hour: '2-digit', minute: '2-digit' });
-    homeCell.innerHTML = gameInfo.homeTeam.placeName.default;
-    awayCell.innerHTML = gameInfo.awayTeam.placeName.default
+    timeCell.textContent = gameDate.toLocaleTimeString('default', { hour: '2-digit', minute: '2-digit' });
+    homeCell.textContent = gameInfo.homeTeam.placeName.default;
+    awayCell.textContent = gameInfo.awayTeam.placeName.default
 }
 
 function isDateBeforeToday(date) {
