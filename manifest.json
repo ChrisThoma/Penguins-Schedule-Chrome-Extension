@@ -14,7 +14,7 @@
     },
     "browser_specific_settings": {
         "gecko": {
-            "id": "penguins-schedule@christhoma.proton.me",
+            "id": "{39be02d6-90bd-4df3-b882-579a5b801c6f}",
             "strict_min_version": "140.0",
             "data_collection_permissions": {
                 "required": ["none"]

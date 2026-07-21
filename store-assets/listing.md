@@ -34,7 +34,8 @@ Updated for the 2026-2027 season. Let's go Pens!
 ## Firefox Add-ons (addons.mozilla.org) submission notes
 - Upload `penguins-schedule-<version>-firefox.zip` at https://addons.mozilla.org/developers/
 - The add-on ID is pinned in the manifest (`browser_specific_settings.gecko.id:
-  penguins-schedule@christhoma.proton.me`) — it must never change once published.
+  {39be02d6-90bd-4df3-b882-579a5b801c6f}`, assigned by AMO on first upload) —
+  it must never change.
 - Listing text and screenshots: reuse the Chrome copy and images above.
 - Data collection questionnaire: the extension collects and transmits nothing.
 - Permissions justification for review: `alarms` schedules the daily game-day
